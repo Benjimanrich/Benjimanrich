@@ -18,7 +18,7 @@ Discord. Tag may change because I won nitro. Anyways talk to me [on this server]
 
 [Youtube(cringe af not recommended)](https://youtube.com/channel/UCPl55kzTlqMx1IkFPg_a4yg)
 
-###Some crappy info about me
+### Some crappy info about me
 
 I spend more time on termux
 
