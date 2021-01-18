@@ -25,7 +25,7 @@ I spend more time on termux
 From India
 
 Watches lot of science, math, computer science,etc.. YouTube channels. eg: Kurzgesagt in a nutshell(Yes I can spell it right)
-
+​![Benjimanrich's github stats](https://github-readme-stats.vercel.app/api​?username=benjimanrich&count_private=true​)
 
 
 <!--
