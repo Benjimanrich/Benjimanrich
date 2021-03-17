@@ -1,7 +1,7 @@
 ### Okay
 Hello I am Benjamin known by my username which is often shortened to Benji
 
-I really did'nt want a readme because it seems like bloat and a guy i know said my definition of bloat has crossed borders or smth. Thanks Xtreme
+I really didn't want a readme because it seems like bloat and a guy i know said my definition of bloat has crossed borders or smth. Thanks Xtreme
 
 I am a **shitty** programmer. I have √(-1) programming experience
 
